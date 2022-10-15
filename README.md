@@ -89,11 +89,11 @@
 
 
 <!-- YOUTUBE:START -->
-- [Trial](https://www.youtube.com/watch?v=xBTRi9AaCpo)
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
 - [⚛️ Introduction to React Js | Installation using &lpar;create-react-app&rpar; tool](https://www.youtube.com/watch?v=BnwEZTX27lk)
-- [Apologies system could not take it, will upload the recording asap.](https://www.youtube.com/watch?v=4JH-VKLzEDY)
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
+- [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
+- [flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
 <!-- YOUTUBE:END -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
